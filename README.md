@@ -1,4 +1,4 @@
-# NYC Motor Vehicle Collision Analysis – Power BI Dashboard
+# NYC Motor Vehicle Collision Analysis – Power BI
 
 ## Project Overview
 
@@ -56,8 +56,6 @@ The analysis revealed a sharp early-year spike in collisions (March = 10.5%), a 
 ---
 
 ## Recommendations
-
-- Improve data reporting to reduce “Unspecified” entries   
 - Run awareness campaigns on distracted driving and safe weekend driving  
 - Reinforce speed limits on high-risk roads like Belt Parkway  
 - Prioritize pedestrian safety infrastructure in high-density boroughs
